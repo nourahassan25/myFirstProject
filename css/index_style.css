@@ -1,0 +1,122 @@
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+header .container
+{
+    padding: 25px 20px;
+    border-bottom: 1px solid #999999;
+
+}
+.container h3
+{
+    
+    color: #aaaaaa;
+    font-weight: bold !important;
+   
+    font-size: 1.80rem !important;
+    
+
+}
+.container
+{
+    margin: 15px auto;
+    width: 80%;
+    
+}
+
+.firstBox h2
+{
+    padding: 30px;
+    
+}
+.firstBox
+{
+    background-color: #eeeeee;
+    padding: 20px;
+}
+
+.firstInput
+{
+    
+    border-radius: 5px;
+    border: 1px solid #DDD;
+    padding: 5px;
+    width: 80%;
+    margin: auto;
+    font-size: 15px;
+}
+p
+{
+    font-weight: bold;
+    color: #333333;
+    padding: 3px 0px;
+    margin: 7px 0px;
+}
+.btn-color
+{
+    color: #ffffff;
+    background-color: #1167c4 ;
+}
+.btn-color:hover
+{
+    color: #ffffff;
+    box-shadow: 2.5px 2.5px rgba(0, 0, 0, 0.5);
+    background:#154477 ;
+
+}
+
+.firstItem{
+    background-image: linear-gradient(#EEE,#FFF);
+    margin: 10px 0;
+    padding: 30px;
+}
+.firstItem h2
+{
+    width: 30%;
+    font-size: 24px;
+    color: black;
+    font-weight: bold;
+
+}
+.btn-first
+{
+    color: #FFF;
+    background-color: #1167c4;
+    
+}
+.btn-second
+{
+    color: #FFF;
+    background-color: #910004;
+
+}
+.btn-first:hover
+{
+    background: #0a3f77;
+    color: #ffffff;
+    box-shadow: 2.5px 2.5px #888;
+    
+}
+.btn-second:hover
+{
+    color: #ffffff;
+    box-shadow: 2.5px 2.5px rgba(0, 0, 0, 0.5);
+    background-color:#510d0e ;
+}
+
+
+.last
+{
+    padding: 20px;
+    border-top: 1px solid #999999;
+}
+.lastSection p
+{
+    padding: 8px 0px;
+    font-size: 14px;
+    color: #AAA;
+}
+
+
